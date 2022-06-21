@@ -14,3 +14,27 @@ build_property.SupportLocalizedComponentNames =
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
 build_property.MSBuildProjectDirectory = C:\Users\Camiel\source\repos\DeSchatjesApi
 build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Camiel/source/repos/DeSchatjesApi/Views/Events/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Camiel/source/repos/DeSchatjesApi/Views/Events/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Camiel/source/repos/DeSchatjesApi/Views/Events/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Camiel/source/repos/DeSchatjesApi/Views/Events/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Camiel/source/repos/DeSchatjesApi/Views/Events/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Camiel/source/repos/DeSchatjesApi/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 

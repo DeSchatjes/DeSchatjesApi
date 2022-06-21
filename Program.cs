@@ -1,4 +1,9 @@
+﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
+using DeSchatjesApi.Data;
 var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddDbContext<DeSchatjesApiContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DeSchatjesApiContext") ?? throw new InvalidOperationException("Connection string 'DeSchatjesApiContext' not found.")));
 
 // Add services to the container.
 
